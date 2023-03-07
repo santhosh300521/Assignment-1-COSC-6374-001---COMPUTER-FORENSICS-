@@ -1,0 +1,3 @@
+Javaxmail Library
+mbox library
+Activation library
