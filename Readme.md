@@ -8,8 +8,8 @@ Computer Forensics Assignment-1 an email forensic to search the enron dataset
 ## Authors
 
 - Santosh Gurajada(vgurajada@islander.tamucc.edu)
-- Suraj()
-- Praveen() 
+- Sai Suraj Nuthanakalva(snuthanakalva@islander.tamucc.edu)
+- Praveen Kumar Bodapati (pbodapati@islander.tamucc.edu) 
 
 
 ## Prerequisites
