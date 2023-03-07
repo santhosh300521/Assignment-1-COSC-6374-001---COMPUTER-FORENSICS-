@@ -16,9 +16,13 @@ Computer Forensics Assignment-1 an email forensic to search the enron dataset
 Before you can compile and  run the Java file, you must ensure that the following software is installed on your system:
 
 1.Java Development Kit (JDK): Version 8 or higher.
+
 2.Activation library: Version 1.2.0 or higher.
+
 3.JavaMail library: Version 1.5.6 or higher.
+
 4.mbox library: Version 1.0.2 or higher.
+
 5.Enron Dataset in the same folder as the Program.
 ## Compiling the Java File
 
